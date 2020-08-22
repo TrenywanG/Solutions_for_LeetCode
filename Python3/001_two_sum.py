@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """
-@File    :   002_add_two_numbers.py
+@File    :   001_two_sum.py
 @Time    :   2020/08/22 16:35
 @Author  :   TrenywanG
 @Version :   1.0
