@@ -1,3 +1,2 @@
-#Solution for LeetCode
-
-刷题历程记录
+Solution for LeetCode
+=

@@ -8,3 +8,6 @@
 @Contact :   brtxbrc0521@126.com
 """
 # here put the import lib
+
+class Solution:
+    def twosum(self,nums,):

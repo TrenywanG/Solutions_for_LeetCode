@@ -7,11 +7,9 @@
 @Version :   1.0
 @Contact :   brtxbrc0521@126.com
 """
+
+
 # here put the import lib
-
-nums = [2, 7, 11, 15]
-target = 9
-
 
 class Solution:
     def twosum(self, nums, target):
@@ -22,5 +20,6 @@ class Solution:
             return output
 
 
-solution1=Solution()
-print(solution1.twosum(nums, target))
+if __name__ == '__main__':
+    solution1 = Solution()
+    print(solution1.twosum([2, 7, 11, 15], 9))
