@@ -1,4 +1,4 @@
-链表 linked list
+Linked-List 链表
 =
 1.基础知识
 -
@@ -9,7 +9,7 @@
 \
 链表中最简单的一种是单向链表，如图所示。
 \
-！[Singly Linked List](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png)
+！[Singly Linked List](https://github.com/TrenywanG/Solutions_for_LeetCode/tree/master/Images/Singly-linked-list.png)
 \
 单向链表的每个节点包含两个域，左半部分称为值域，用来存放用户数据；
 右半部分称为指针域，用来存放指向下一个节点的指针。单向链表止咳向一个方向遍历。
